@@ -8,5 +8,5 @@ content-type: application/json
     "title": "Toy story",
     "director": "Jhon Lasseter",
     "year":"1995",
-    "rating":"8.8"
+    "rating":"8.9"
 }
